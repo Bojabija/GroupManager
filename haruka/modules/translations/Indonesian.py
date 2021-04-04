@@ -57,21 +57,21 @@ INSULTS_STRINGS = (
     "Perintah tidak ditemukan. Seperti isi otakmu.",
     "Apakah kamu sadar kalau tingkahmu itu membuatmu terlihat bodoh? Tampaknya tidak.",
     "Harusnya kamu bisa menulis yang lebih baik dari itu.",
-    "Aturan bot nomor 544 bagian 9 mencegahku untuk membalas pesanmu.",
+    "Aturan bot nomor 544 bagian 9 mencegahku untuk membalas pesan orang bodoh sepertimu.",
     "Maaf, kami tidak menjual otak.",
-    "Percayalah kepadaku, Kamu nggak normal.",
-    "Aku yakin otakmu terasa seperti baru, sebab Kamu tidak pernah menggunakannya.",
+    "Percayalah kepadaku, Kamu tidak normal.",
+    "Aku yakin otakmu terasa seperti baru, sebab kamu tidak pernah menggunakannya.",
     "Jika saya ingin bunuh diri, saya akan menaiki egomu dan melompat ke IQmu.",
     "Zombie itu makan otak... jadi kau aman. ",
     "Kamu tidak berevolusi dari kera, mereka berevolusi dari Kamu."
     "Kembalilah berbicara ke saya ketika jumlah IQmu sudah melebihi usiamu. ",
-    "Saya tidak mengatakan kamu bodoh, Saya hanya mengatakan kamu sial saat berfikir.",
+    "Saya tidak mengatakan kamu bodoh, Saya hanya mengatakan kamu kurang beruntung saat berfikir.",
     "Bahasa apa yang kamu pakai? Karena itu terdengar seperti omong kosong",
     "Kebodohan bukan sebuah kejahatan jadi kamu dibebaskan.",
     "Kamu adalah bukti bahwa evolusi bisa terbalik.",
     "Aku mau tanya berapa umurmu tapi aku tahu kamu tidak akan bisa menghitung sebanyak itu.",
     "Sebagai makhluk asing, apa pendapatmu tentang ras manusia?",
-    "Otak bukanlah segalanya. Dalam kasusmu, otaknya nggak ada.",
+    "Otak bukanlah segalanya. Dalam kasusmu, otak mustahil dimiliki.",
     "Biasanya orang hidup dan belajar. Kamu hanya sekedar hidup.",
     "Aku tidak tahu apa yang membuatmu bodoh, tapi itu benar-benar manjur.",
     "Teruslah berbicara, suatu hari nanti Kamu akan mengatakan sesuatu yang cerdas! (meskipun aku ragu) ",
@@ -79,7 +79,7 @@ INSULTS_STRINGS = (
     "IQ mu lebih kecil dari ukuran sepatumu.",
     "Aduh! Neurotransmitermu sudah rusak. ",
     "Apakah Kamu gila, dasar bodoh.",
-    "Setiap orang memiliki hak untuk menjadi bodoh tapi Kamu malah menyalagunakannya.",
+    "Setiap orang memiliki hak untuk menjadi bodoh tapi Kamu malah menyalahgunakannya.",
     "Aku menyesal kalau aku menyakiti perasaanmu ketika aku memanggilmu bodoh. Kupikir dirimu sudah tahu itu. ",
     "Kamu harus mencoba mencicipi sianida.",
     "Enzimmu harusnya digunakan untuk mencerna racun tikus.",
@@ -91,10 +91,10 @@ INSULTS_STRINGS = (
     "Coba ini: jika Kamu menahan nafas air selama satu jam, Kamu bisa menahannya selamanya.",
     "Go Green! Berhentilah menghirup oksigen. ",
     "Tuhan sedang mencarimu. Kamu harus mati untuk bertemu diriNya. ",
-    "memberikanmu 100%. Sekarang, pergi sumbangkan darah. ",
+    "Berikan 100%. Sekarang, pergi donor darah. ",
     "Coba lompat dari gedung dengan ratusan lantai, tetapi Kamu hanya bisa melakukannya sekali.",
     "Kamu harusnya menyumbangkan otakmu karena kulihat kalau kamu tidak pernah menggunakannya.",
-    "Relawan untuk target di tempat latihan menembak.",
+    "Jadilah relawan untuk target di tempat latihan menembak.",
     "Tembakan di kepala itu menyenangkan. Kamu coba sana. ",
     "Kamu harus coba berenang bersama hiu putih.",
     "Kamu cat dirimu sendiri dengan warna merah dan ikutlah berlari di maraton banteng.",
@@ -117,52 +117,52 @@ INSULTS_STRINGS = (
 
 SLAP_TEMPLATES = (
     "{user1} {hits} {user2} dengan {item}.",
-    "{user1} {hits} {user2} di wajahnya dengan {item}.",
-    "{user1} {hits} {user2} pelan-pelan dengan {item}.",
-    "{user1} {throws} sebuah {item} pada {user2}.",
-    "{user1} mengambil {item} dan {throws} di wajah {user2}.",
+    "{user1} {hits} {user2} tepat di wajahnya menggunakan {item}.",
+    "{user1} {hits} {user2} dengan keras memakai {item}.",
+    "{user1} {throws} sebuah {item} ke kepala {user2}.",
+    "{user1} mengambil {item} dan {throws} ke wajah {user2}.",
     "{user1} meluncurkan {item} langsung ke arah {user2}.",
     "{user1} mulai menampar {user2} dengan {item}.",
-    "{user1} menahan {user2} dan berulangkali {hits} dengan {item}.",
+    "{user1} menahan {user2} dan berulangkali {hits} wajahnya dengan {item}.",
     "{user1} meraih {item} dan {hits} {user2} dengan itu.",
-    "{user1} mengikat {user2} ke kursi dan {throws} sebuah {item} pada mereka.",
-    "{user1} memberi pertolongan untuk membantu {user2} belajar berenang di lava."
+    "{user1} mengikat {user2} ke kursi dan {throws} sebuah {item} padanya.",
+    "{user1} mendorong {user2} ke dalam jurang penyesalan."
 )
 
 ITEMS = (
-    "wajan besi cor",
-    "trout besar",
+    "wajan",
+    "panci gosong",
     "Tongkat bisbol",
-    "tongkat kriket",
-    "tongkat kayu",
-    "paku",
+    "gagang sapu",
+    "kursi bakso",
+    "gerobak semen",
     "printer",
     "sekop",
-    "Monitor CRT",
-    "buku teks fisika",
+    "TV tabung",
+    "buku paket fisika",
     "pemanggang roti",
-    "lukisan Richard Stallman",
-    "televisi",
-    "truk lima ton",
+    "lukisan Monalisa",
+    "Hp nokia jadul",
+    "kipas angin rusak",
     "Gulungan lakban",
-    "buku",
+    "pisau dapur",
     "laptop",
     "televisi bekas",
-    "Karung batu",
-    "trout berwarna",
-    "ayam karet",
-    "Kelelawar berduri",
-    "Pemadam Api",
-    "beton",
-    "sebongkah tanah",
+    "batu bata",
+    "ember anti pecah",
+    "celengan babi",
+    "galon",
+    "pipa besi",
+    "kunci inggris",
+    "sekarang pasir",
     "sarang lebah",
     "Sepotong daging busuk",
-    "beruang",
-    "sejumlah batu bata",
+    "bambu runcing",
+    "batu gunung",
 )
 
 THROW = (
-    "melempar",
+    "menjatuhkan",
     "melemparkan",
     "membuang",
     "melontarkan",
@@ -170,10 +170,10 @@ THROW = (
 
 HIT = (
     "memukul",
-    "memukul",
+    "menggeplak",
     "menampar",
-    "menjatuhkan",
-    "memukul",
+    "meninju",
+    "menghajar",
 )
 
 MARKDOWN_HELP = """
@@ -199,31 +199,32 @@ Ini akan membuat dua tombol pada satu baris, bukan satu tombol per baris.
 """
 
 IndonesianStrings = {
-    "send-start": """Hi {}, nama saya {}! Jika Kamu memiliki pertanyaan tentang cara menggunakan saya, baca /help.
+    "send-start": """Halo {}, nama saya {}! Ketik /help untuk melihat daftar perintah yang tersedia.
 
-Saya adalah bot manajer grup yang dikelola oleh [orang ini](tg://user?Id={654839744}). Saya adalah [Marie](https://github.com/PaulSonOfLars/tgbot) fork.
-Saya dibangun di python3, menggunakan \
-python-telegram-bot library, dan saya sepenuhnya opensource - Kamu dapat menemukan apa yang membuat saya\
-[disini](https://github.com/peaktogoo/HarukaAya))!
+[Pengguna ini](tg://user?Id={891467722}) adalah Boss saya.
 
-Jangan ragu untuk mengirimkan pull request di github\
-atau permintaan fitur jika kamu punya :)
+Gabung dan ikuti:
+• [Kerabat Online Grup](https://t.me/KerabatOnline)
+• [Kerabat Online Channel](https://t.me/KerabatOnline_Ch)
+• [Kerabat Online Moment](https://t.me/KerabatMoment)
+• [Kerabat Online Twitter](https://t.me/KerabatOnlineTwitter)
 
-Jika Kamu menikmati menggunakan saya dan / atau ingin membantu saya bertahan di alam liar, tekan /donate untuk membantu upgrade VPS saya!
+Jika anda berbaik hati, anda bisa ketik /donate untuk berdonasi.
+
 """,
 
-    "send-help": """Hai disana! Nama saya *{}*.
-Saya bot manajemen grup modular dengan beberapa tambahan fitur menyenangkan! Lihatlah beberapa fitur berikut untuk mendapatkan petunjuk tentang hal yang bisa saya bantu.
+    "send-help": """Hai Kerabat! Nama saya *{}*.
+Berikut modul-modul yang tersedia di bot ini!
 
-Perintah tersedia:
- - /start: Perintah keren untuk memeriksa apakah bot masih hidup atau tidak
- - /help: Bantuan.
- - /help <nama modul>: Bantuan tentang modul.
- - /donate: informasi tentang cara menyumbang!
- - /lang: mengubah bahasa bot
- - /settings:
-   -di PM: akan mengirimkan setelan untuk semua modul yang didukung.
-   -dalam grup: akan mengarahkan Kamu ke pm, dengan semua pengaturan chat.
+Perintah utama:
+ × /start: untuk memastikan bot aktif atau tidak
+ × /help: menampilkan menu bantuan
+ × /help <nama modul>: bantuan tentang modul yang diminta.
+ × /donate: informasi tentang cara berdonasi!
+ × /lang: mengubah bahasa bot
+ × /settings:
+   • di PM: akan mengirimkan setelan untuk semua modul yang didukung.
+   • dalam grup: akan mengarahkan anda ke PM, dengan semua pengaturan obrolan.
 
 {}
    """,
@@ -255,34 +256,34 @@ yang membuatmu tertarik.""",
 
 
     "The original sender, {}, has an ID of `{}`.\nThe forwarder, {}, has an ID of `{}`.":
-        "The original sender, {}, has an ID of `{}`.\nThe forwarder, {}, has an ID of `{}`.",
-    "{}'s id is `{}`.": "{}'s id is `{}`.",
-    "Your id is `{}`.": "Your id is `{}`.",
-    "This group's id is `{}`.": "This group's id is `{}`.",
+        "Pengirim asli, **{}**, ID-nya `{}`.\nPenerus pesan, **{}**, ID-nya`{}`.",
+    "{}'s id is `{}`.": "ID grup {} adalah `{}`.",
+    "Your id is `{}`.": "ID anda adalah `{}`.",
+    "This group's id is `{}`.": "ID grup ini adalah `{}`.",
 
-    "I can't extract a user from this.": "I can't extract a user from this.",
-    "<b>User info</b>:": "<b>User info</b>:",
-    "\nFirst Name: {}": "\nFirst Name: {}",
-    "\nLast Name: {}": "\nLast Name: {}",
-    "\nUsername: @{}": "\nUsername: @{}",
-    "\nPermanent user link: {}": "\nPermanent user link: {}",
+    "I can't extract a user from this.": "Saya tidak bisa mengekstrak daei pengguna ini.",
+    "<b>User info</b>:": "<b>Informasi Pengguna</b>:",
+    "\nFirst Name: {}": "\nNama Depan: {}",
+    "\nLast Name: {}": "\nNama Belakang: {}",
+    "\nUsername: @{}": "\nNama Pengguna: @{}",
+    "\nPermanent user link: {}": "\nLink Akun Pengguna: {}",
     "\n\nThis person is my owner - I would never do anything against them!":
-        "\n\nThis person is my owner - I would never do anything against them!",
+        "\n\nPengguna ini adalah Ketua RT - Harap menghormatinya!",
     "\nThis person is one of my sudo users! Nearly as powerful as my owner - so watch it.":
-        "\nThis person is one of my sudo users! Nearly as powerful as my owner - so watch it.",
+        "\nPengguna ini adalah Preman Kampung! Jangan macam-macam.",
     "\nThis person is one of my support users! Not quite a sudo user, but can still gban you off the map.":
-        "\nThis person is one of my support users! Not quite a sudo user, but can still gban you off the map.",
+        "\nPengguna ini adalah Warga Lama! jangan macam-macam, dia bisa menyuruhku menendangmu keluar dari sini..",
     "\nThis person has been whitelisted! That means I'm not allowed to ban/kick them.":
-        "\nThis person has been whitelisted! That means I'm not allowed to ban/kick them.",
+        "\nPengguna ini adalah Warga Teladan! Artinya, dia memiliki keistimewaan disini.",
 
     "Its always banhammer time for me!": "Its always banhammer time for me!",
 
-    "It's {} in {}": "It's {} in {}",
+    "It's {} in {}": "It's {} di {}",
 
-    "Please reply to a sticker to get its ID.": "Please reply to a sticker to get its ID.",
-    "Please reply to a sticker for me to upload its PNG.": "Please reply to a sticker for me to upload its PNG.",
+    "Please reply to a sticker to get its ID.": "Harap balas stiker untuk melihat ID-nya.",
+    "Please reply to a sticker for me to upload its PNG.": "Harap balas pesan yang ingin dijadikan file PNG.",
 
-    "Write a location to check the weather.": "Write a location to check the weather.",
+    "Write a location to check the weather.": "Tulis lokasi untuk melihat cuacanya.",
     "I will keep an eye on both happy and sad times!": "I will keep an eye on both happy and sad times!",
     "Today in {} is being {}, around {}°C.\n": "Today in {} is being {}, around {}°C.\n",
     "Sorry, location not found.": "Sorry, location not found.",
