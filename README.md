@@ -1,4 +1,4 @@
-# Car deploy?
+# Cara deploy?
 [Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
 
 # GroupManager
